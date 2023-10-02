@@ -1,0 +1,11 @@
+form{
+    width: 20%;
+    margin: -19px 0;
+    border: 1px solid black;
+    padding: 3px;
+}
+
+p{
+    color: blue;
+    padding: 4px;
+}
